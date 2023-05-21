@@ -12,8 +12,10 @@ Additionally, when prompted for the license the user will have a list to choose 
 
 <a href="https://jonathanabbema.github.io/Homework-09/"> Link to repo </a>
 
+** PLEASE CLICK THE LINK TO REPO TO VIEW THE APP DEMO**
+
 ## Application Demo
 
-<video width="320" height="240" controls>
+<video width="450" height="450" controls>
   <source src="./readme_gen.webm" type="video/mp4"> Link to video </source>
 </video>
