@@ -15,5 +15,5 @@ Additionally, when prompted for the license the user will have a list to choose 
 ## Application Demo
 
 <video width="320" height="240" controls>
-  <source src="readme_gen.webm" type="video/mp4">
+  <source src="readme_gen.webm" type="video/mp4"> Link to video </source>
 </video>
